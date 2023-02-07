@@ -1,2 +1,1 @@
-# ctf
-capture-the-flag contrib
+repo for capture-the-flags file
